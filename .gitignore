@@ -1,0 +1,4 @@
+/Client-fe/node_modules
+
+/Server-be/node_modules
+/Server-be/.env
